@@ -3,7 +3,7 @@ A simple project made in Matlab that allows to compute the time necessary to obt
 
 It contains two main files and a data file (.mat)
 
-- Mlx livescript where the user can obeserve all the calculation results introducing the intended boundary conditions. At the end it displays the appropiate time needed.
+- Mlx livescript where the user can observe all the calculation results introducing the intended boundary conditions. At the end it displays the appropiate time needed.
 - Slx Simulink file that process all the calculations needed. It doesn´t need to be opened by the user.
 
 References used in the making of this project:
